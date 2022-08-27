@@ -4,6 +4,8 @@ const mongoose = require('mongoose')
 const cors = require('cors');
 const logger = require('morgan');
 const stonesRouter = require('./controllers/stones');
+const blogsRouter = require('./controllers/blogs');
+const chakrasRouter = require('./controllers/chakras');
 
 
 //initialize app
@@ -32,6 +34,8 @@ app.get('/', (req, res) => {
 });
 
 app.use('/stones', stonesRouter);
+app.use('/blogs', blogsRouter);
+app.use('/chakras', chakrasRouter);
 
 app.get('/*', (req, res) => {
     res.status(404).json({message: 'not found'})

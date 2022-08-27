@@ -29,6 +29,29 @@ module.exports = [
         description: ' While Amethyst may be famed for its connection to spiritual sass, it also lends a hand in the physical realm too. This stone can get to work on making sure your endocrine system is working smoothly and can boost immunity, restful sleep, and even help your body shake off migraines. Simply soothing, tumbled Amethyst helps you heave a sigh of relief at first sight.',
         img: 'http://sc04.alicdn.com/kf/HTB1CCHBNSzqK1RjSZFLq6An2XXaO.jpg',
         color: 'Purple',
-    }
-
+    },
+    {
+        name: 'Lapis Lazuli',
+        description: 'Lapis encourages us to let go of anger, frustration, and all those heavy emotions that only drag us down. It’s a gem that desires you to grow and will help you do that essential work necessary to stand in balance and power. These tumbled stones can be worked into chakra cleansing rituals, can be a companion during meditation and yoga practice, or can simply be stashed in sacred places on your person or around your home.',
+        img: 'https://cdn.shopify.com/s/files/1/0396/1664/3225/products/P1157677-2.jpg?v=1649895621',
+        color: 'Royal Blue'
+    },
+    {
+        name: 'Carnelian',
+        description: 'This is where your well of passion, intimacy, and personal fire sit. For those who have been feeling a little disconnected or empty in life, holding a Carnelian tumbled stone or placing one on your sacral chakra can help to clear any blockages and set your soul smoldering once more. This gentle sunlit gem can also help in matters of sex and fertility. Whether you want more passion or to prep your body for the journey towards parenthood, Carnelian can help to give you the nourishment you need.',
+        img: 'https://cdn.shopify.com/s/files/1/0070/4056/5319/products/il_fullxfull.2406188590_4nfg_2048x.jpg?v=1603733074',
+        color: 'Mix of Orange and Red',
+    }, 
+    {
+        name: 'Malachite',
+        description: 'Tumbled Malachite is all swirls of green and black and patterns that whisper of tall mountains, deep forests, and fresh running water. Malachite is a head cooler. This gem makes sure that no matter what surprises and uprises are thrown your way, that you are forever able to keep yourself protected, firm of foot, and clear-headed. It invites joy and opportunity around ideas of change. Like the watering can that feeds the seed, Malachite wants you to grow.',
+        img: 'https://therockcrystalshop.com.au/wp-content/uploads/2020/04/CC203-malachite-rotated.jpg',
+        color: 'Mix of Deep Green and Black.'
+    },
+    {
+        name: 'Tiger Eye',
+        description: 'Glowing with fierce protective power, you cannot help but be drawn to the gold and black bands of the beautiful Tiger Eye tumbled stones. These healing crystals are here to push away dead-end energy and to fill us to the brim with a sense of self-confidence. Tigers Eye does this soul work by ensuring that your roots run deep, your mind is clear, and that your core is strong and solid so no winds can shake or strip you back to the bone.',
+        img: 'https://cdn11.bigcommerce.com/s-74zp6w28re/images/stencil/1280x1280/products/5829/37039/new-moon-beginnings-tigers-eye-tumbled-stone-polished-tigers-eye-crystal-cts-aa283-parent__11883.1635554868.jpg?c=1',
+        color: 'Mix of Gold and Black',
+    },
 ]

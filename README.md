@@ -26,6 +26,10 @@
 - CSS
 - JavaScript
 
+## Screenshots
+![wireframe screenshot](assets/Screen%20Shot%202022-09-05%20at%2011.05.22%20AM.png) 
+![wireframe screenshot](assets/Screen%20Shot%202022-09-05%20at%2011.07.30%20AM.png)
+
 ## Getting Started
 - [click here](https://trello.com/b/S9DVpx27/project-3) to see my Trello Board.
 - [click here]() to see the Blooming Stones site.

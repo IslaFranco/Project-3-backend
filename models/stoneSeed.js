@@ -3,7 +3,7 @@ module.exports = [
     {
         name: 'Rose Quarts',
         description: ' It is also known as Hyaline Quartz. It has a pale pink coloring and a translucent transparency and a vitreous luster. It also has a hexagonal crystal system and is in the mineral class of quartz. The meaning of Rose Quartz is love and compassion.',
-        img: 'https://cdn.shopify.com/s/files/1/0273/4214/3566/files/Untitled_design_-_2020-06-30T133217.538.jpg?v=1593520346',
+        img: 'https://cdn11.bigcommerce.com/s-74zp6w28re/images/stencil/original/products/4889/45708/new-moon-beginnings-raw-rose-quartz-crystal-rough-natural-crystal-crr-aa630__81727.1635611929.jpg?c=1',
         color: 'Light Pink',
     },
     {
@@ -46,7 +46,7 @@ module.exports = [
         name: 'Malachite',
         description: 'Tumbled Malachite is all swirls of green and black and patterns that whisper of tall mountains, deep forests, and fresh running water. Malachite is a head cooler. This gem makes sure that no matter what surprises and uprises are thrown your way, that you are forever able to keep yourself protected, firm of foot, and clear-headed. It invites joy and opportunity around ideas of change. Like the watering can that feeds the seed, Malachite wants you to grow.',
         img: 'https://therockcrystalshop.com.au/wp-content/uploads/2020/04/CC203-malachite-rotated.jpg',
-        color: 'Mix of Deep Green and Black.'
+        color: 'Mix of Deep Green and Lighter Green'
     },
     {
         name: 'Tiger Eye',

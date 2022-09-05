@@ -1,5 +1,5 @@
 ## Blooming Stones
- - An application for anyone interested in learning about crystals/gem stones. Users will be able to view different types of stones with a description of what it does and a picture. Users can add additional stones that they are interested in or are using, or deleting ones as well. This app is for users who are curious about how they may affect your day to day life for the better and to improve anything that is going on in your life. You may also read blogs about what certain stones are helpful for, and which stones help your 7 main chakra centers.
+ - An application for anyone interested in learning about crystals/gem stones. Users will be able to view different types of stones with a description of what it can help, a picture, and what color. Users can add additional stones that they are interested in or are using, or deleting ones as well. This app is for users who are curious about how they may affect your day to day life for the better and to improve anything that is going on in your life. You may also read blogs about what certain stones are helpful for, and which stones help your 7 main chakra centers.
 
 ## User Stories
 - As a user, I want to be able to see different type of gem stones, the way they look, and its description so that I can be well informed.
@@ -27,13 +27,18 @@
 - JavaScript
 
 ## Getting Started
-- [click here](https://islafranco412363.invisionapp.com/freehand/Untitled-sZgo1is5r) to see my Trello Board.
+- [click here](https://trello.com/b/S9DVpx27/project-3) to see my Trello Board.
 - [click here]() to see the Blooming Stones site.
 
 ## Unsolved Problems
-- 
+- Blog and Chakra Pages
 
 ## Future Enhancments
 - Google Authentication
 - Log in and log out
+- Create a Blog page for users to read and create their own blogs.
+- Create a Chakra page so users can see what stone helps with the 7 main chakras.
+- Update Nav bar to show redirects.
+- Be able to have a rate 1-5 on how a stone has helped you.
+- Allow comments once logged in, so that other users can voice their opinion on the stone description or put their own.
 
